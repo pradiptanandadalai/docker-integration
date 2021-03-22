@@ -53,5 +53,4 @@
 		</plugins>
 		<finalName>docker-intrgration</finalName>
 	</build>
-
 </project>
