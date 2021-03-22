@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.arris</groupId>
 	<artifactId>dev</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.110-5-SNAPSHOT</version>
 	<name>dev</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -51,6 +51,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>docker-intrgration</finalName>
 	</build>
 
 </project>
